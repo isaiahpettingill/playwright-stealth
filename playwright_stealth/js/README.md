@@ -1,4 +1,4 @@
-# Steal Scripts
+# Stealth Scripts
 
 
 Javascript stealth scripts are located here.
